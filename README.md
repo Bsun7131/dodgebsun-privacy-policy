@@ -1,2 +1,2 @@
-# dodgebsun-privacy-policy
-Privacy Policy for the DodgeBsun iOS game
+# dodgerush-privacy-policy
+Privacy Policy for the Dodgerush iOS game
